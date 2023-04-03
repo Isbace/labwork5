@@ -1,0 +1,14 @@
+<?php 
+include("Header.php") 
+?>
+<html> 
+<head> 
+<link rel="stylesheet" href="styles.css">
+</head> 
+<body style="background-color:#FFF8DC;">
+<center> <h2> ERROR </h2>
+<button onclick="window.location.href='admin_information'">Admin Information</button>
+
+</body>
+</html>
+
